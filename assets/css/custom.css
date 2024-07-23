@@ -1,0 +1,9 @@
+.clearfix > .desc{
+    font-size: 27px;
+    font-weight: 600;	
+    margin-bottom: 50px;
+}
+
+.clearfix > p{
+    font-size: 20px;
+}
