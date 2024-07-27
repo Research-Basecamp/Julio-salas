@@ -28,8 +28,11 @@ layout: default
     {% endif %}
 
     <div class="clearfix">
+      <div class="profile float-{% if page.profile.align == 'left' %}right{% else %}left{% endif %}">
     <h4 class="desc">{{ page.subtitle }}</h4>
-    {{ content }}</div>
+    {{ content }}
+    </div>
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -56,13 +59,7 @@ layout: default
     {% endif %}
 
     <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
+ 
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
