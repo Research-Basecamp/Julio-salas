@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jath.relevant-research.com/sitemap.xml
+Sitemap: https://julio.relevant-research.com/sitemap.xml
