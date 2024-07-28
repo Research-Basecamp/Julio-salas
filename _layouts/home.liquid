@@ -34,7 +34,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h5 style="font-weight: 600">
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Upcoming Events, Conferences, and Talks</a>
+        <a href="{{ '/events/' | relative_url }}" style="color: inherit">Upcoming Events, Conferences, and Talks</a>
       </h5>
       {% include news.liquid limit=true %}
     {% endif %}

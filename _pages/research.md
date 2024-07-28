@@ -4,7 +4,7 @@ title: research
 permalink: /research
 subtitle: My research focuses on the sociology of inequality, race, and health among Latinos living in New York City.
 nav: true
-nav_order: 2
+nav_order: 3
 profile:
   align: right
   image: bridge.jpg
@@ -27,6 +27,6 @@ Highlighting the connections between racialization and health can inform policym
 
 Ultimately, I aim to ensure that all individuals, regardless of their background, have the opportunity to lead healthy, fulfilling lives. 
 
-**My work is about creating a more just and understanding society for everyone**
+**My work is about creating a more just and understanding society for everyone.**
 
 
