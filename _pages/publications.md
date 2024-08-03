@@ -5,7 +5,7 @@ permalink: /publications
 subtitle: Academic Publications
 profile:
   align: right
-  image: julio-speaking.jpg
+  image: juliospeaking.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 

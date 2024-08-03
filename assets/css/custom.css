@@ -15,3 +15,15 @@
     font-size: 16px;
 }
 
+
+@media (min-width: 576px) {
+    .content-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; /* Adjust if you want the content to be centered vertically */
+        max-width: 60%;
+        padding-right: 10px;
+        height: 600px;
+    }
+}

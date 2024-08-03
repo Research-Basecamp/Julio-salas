@@ -5,7 +5,7 @@ permalink: /events
 subtitle: Public Speaking, Conferences, and Events
 profile:
   align: right
-  image: prof_pic.jpg
+  image: juliospeaking.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
