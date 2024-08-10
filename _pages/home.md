@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: I am a Ph.D. student and Chancellor’s Fellow in the [Department of Sociology](https://sociology.berkeley.edu/) at UC Berkeley. 
+subtitle: I am a Ph.D. student and Chancellor’s Fellow in the Department of Sociology at UC Berkeley. 
 profile:
   align: right
   image: prof_pic.jpg
