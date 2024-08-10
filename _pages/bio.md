@@ -9,7 +9,7 @@ profile:
   align: right
   image: juliocasual.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: Julio at UC Berkeley, 2023.
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
