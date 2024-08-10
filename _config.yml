@@ -8,7 +8,7 @@ middle_name:
 last_name: Salas-Vargas
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Julio Salas, a Sociology PhD student and Chancellor’s Fellow at UC Berkeley, researches the intersections of immigration, emotion, race, ethnicity, social stratification, and health, focusing on Latinx immigrant families' grief during and after the COVID-19 pandemic. Inspired by his late mother and driven by a commitment to social justice, Julio aims to produce impactful knowledge and uplift his community.
 footer_text: >
   Website by <a href="https://relevant-research.com" target="_blank">relevant-research</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty

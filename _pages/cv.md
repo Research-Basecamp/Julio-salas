@@ -1,9 +1,9 @@
 ---
 layout: cv
 title: CV
-permalink: /cv
+permalink: /assets/pdf/example_pdf.pdf
 subtitle: 
-nav: true
+nav: false
 nav_order: 6
 profile:
   align: right

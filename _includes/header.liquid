@@ -51,6 +51,8 @@
             </a>
           </li>
 
+          
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
@@ -103,6 +105,11 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          <li class="nav-item ">        
+          <a target="_blank" class="nav-link" href="/assets/pdf/example_pdf.pdf">CV        
+            </a>
+          </li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
