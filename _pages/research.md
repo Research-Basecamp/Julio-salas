@@ -2,7 +2,7 @@
 layout: research
 title: research
 permalink: /research
-subtitle: My research focuses on the sociology of inequality, race, and health among Latinos living in New York City.
+subtitle: My research focuses on the sociology of inequality, emotion, and health among immigrant families in the United States.
 nav: true
 nav_order: 3
 profile:
