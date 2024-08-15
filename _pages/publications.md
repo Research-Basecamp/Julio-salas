@@ -2,7 +2,7 @@
 layout: publications
 title: publications
 permalink: /publications
-subtitle: Academic Publications
+subtitle: Publications
 profile:
   align: right
   image: juliospeaking.jpg
