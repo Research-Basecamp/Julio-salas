@@ -1,13 +1,13 @@
 ---
 layout: events
-title: events
-permalink: /events
+title: updates
+permalink: /updates
 subtitle: Public Speaking, Conferences, and Events
 profile:
   align: right
   image: juliospeaking.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Julio speaking at Queens Communit
+  more_info: Julio speaking at Queens Community
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
