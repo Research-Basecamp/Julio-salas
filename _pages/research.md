@@ -1,6 +1,6 @@
 ---
 layout: research
-title: research
+title: Research
 permalink: /research
 subtitle: My research focuses on the sociology of inequality, emotion, and health among immigrant families in the United States.
 nav: true
