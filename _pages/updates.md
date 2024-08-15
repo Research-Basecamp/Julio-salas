@@ -16,7 +16,7 @@ nav: true
 nav_order: 5
 ---
 
-Find a list of updates below. See the homepage for upcoming events.
+Find a list of all updates below. See the homepage for upcoming events and more recent updates.
 
 **2024 - 2025** – Diversity and Community Fellow, University of California, Berkeley ($7,500)<br>
 **2024** – Center for Race & Gender Grant, University of California, Berkeley ($1,000)<br>
