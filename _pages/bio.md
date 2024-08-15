@@ -1,6 +1,6 @@
 ---
 layout: bio
-title: bio
+title: Bio
 permalink: /bio
 subtitle: Researcher. Wannabe Writer. Thinker & Feeler. Corona, Queens, Boy.
 nav: true
