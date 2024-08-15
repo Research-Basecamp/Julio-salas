@@ -18,10 +18,10 @@ nav_order: 5
 
 Find a list of updates below. See the homepage for upcoming events.
 
-**2024 - 2025** – Diversity and Community Fellow, University of California, Berkeley ($7,500)
-**2024** – Center for Race & Gender Grant, University of California, Berkeley ($1,000)
-**2024 - Present** – Writing Partner, College Connect Program at Mission Graduates
-**2024** – Interview, Meet Julio Salas, CanvasRebel Magazine
+**2024 - 2025** – Diversity and Community Fellow, University of California, Berkeley ($7,500) <br>
+**2024** – Center for Race & Gender Grant, University of California, Berkeley ($1,000)<br>
+**2024 - Present** – Writing Partner, College Connect Program at Mission Graduates<br>
+**2024** – Interview, Meet Julio Salas, CanvasRebel Magazine<br>
 **2024** – Panelist, Experience Diversity: FGLI @ Cal, U.C. Berkeley Graduate Division
 **2024** - Present Mentor, From Day One - Latinx Student Resource Center, U.C. Berkeley
 **2024** – Interview, Pivoting from Pre-Med to a PhD - Grad School Femtoring Podcast
