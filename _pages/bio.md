@@ -2,7 +2,7 @@
 layout: bio
 title: bio
 permalink: /bio
-subtitle: My research is personal.
+subtitle: I am Julio Fernando Salas-Vargas.
 nav: true
 nav_order: 2
 profile:
@@ -17,14 +17,14 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am Julio Salas, a passionate and dedicated second-generation Colombian and Mexican immigrant, born and raised in the vibrant community of Corona, Queens, New York. As the eldest of four siblings, I have been profoundly influenced by my mother, Angela, who tragically passed away from COVID-19 in 2021, and my grandmother, who continues to be a pillar of strength for our family.
+I am Julio Fernando Salas-Vargas, the son and grandson of Mexican and Colombian immigrants who immigrated to New York City in the mid to late 1980s from Puebla, Mexico and Bogota, Colombia. My three younger siblings (Angie, Fernando, and Kevin) and I were all born in Elmhurst Hospital and raised in Corona, Queens, New York, by our mother, Angela, who was taken away from us by the COVID-19 pandemic and our grandmother, Maria, who is still with us in Corona.
 
-I am a Sociology PhD student and Chancellor’s fellow at UC Berkeley, where my research explores the intersections of immigration, emotion, race, ethnicity, social stratification, and health. My current study focuses on how Latinx immigrant families have grieved during and after the COVID-19 pandemic, reflecting my commitment to addressing social inequalities and producing impactful knowledge.
+Growing up, I couldn’t have imagined I would have attended college, let alone graduate school. The circumstances I was born into and remained in throughout my childhood and adolescence, in many ways, prevented me from envisioning a life beyond being relegated to the zip code of 11368, living a precarious life in all the senses – financial, emotional, psychological, etc. What once felt like a life where everything went wrong for little Julio, and he couldn’t understand why life was so exhausting, became and remains an unimaginably lucky second shot at life for my present self. This unimaginable life began in 2016 when I enrolled at Queensborough Community College (QCC), and a million factors began to line up - luck, many mentors entering my life and supporting me, pipeline programs supporting me, an educational awakening that led me to become enamored with learning, among others. Life took me from P.S. 28 to P.S. 14 to I.S. 61 to John Bowne High School to QCC to Cornell University, and now to the University of California, Berkeley, where I am a Sociology PhD student and Chancellor’s Fellow.
 
-My academic journey took a pivotal turn when I chose to forgo medical school in favor of sociology, driven by my love for thinking, reading, and writing, and a deep belief in the power of my own voice. Inspired by my mother's selflessness and a desire to make a difference, I view my work as a creative endeavor aimed at making others' lives easier and fuller, even at a personal cost.
+My research interests revolve around immigrant families living in the United States and sit at the intersections of immigration, emotion, race and ethnicity, social stratification, and health. My current study examines how Latino/a/e/x immigrant families grieved during and after the COVID-19 pandemic. My research prior to Berkeley—work I continue to do and collaborate on—focused on the social safety net and immigration. All of my work, be it professional, personal, or both, is aimed at invoking hope for a better tomorrow and is taking action towards that better tomorrow. Further, I hope that my life’s work and how I carry myself help others hurt less, feel more, and embody one of my favorite Kendrick Lamar lyrics, “I’m sacrificin’ myself to start the healing.”
 
-I strive to embody resilience and intellectual curiosity, to honor my family's legacy, and to uplift my community. My ultimate goal is to invoke hope and take actionable steps toward a better future, using my research and writing to give voice to the unheard and create meaningful change in the world.
+I live with a lot of gratitude for all the people who played—and continue to play—a role in me getting to where I am. They believed in me, uplifted me, supported me, and continue to do so far before I had or encompass any of the things I do now. They saw things in me I had yet to see and still may not see, and they provided me with tangible resources and support that transformed my life and sense of self. There are too many folks to name, but so many people in NYC, at QCC, America Needs You, Cornell University, Urban Institute, the Congressional Hispanic Caucus Institute, in the Bay Area, and at Berkeley, among many other spaces and places. Both figuratively and literally, these people saved me, and I try really hard to repay them with how I live and conduct my life and work.
 
-[**Learn more about my research here.**](https://julio.relevant-research.com/research)
+Work aside, I’m a lover of coffee, yummy food, experiencing life, emotionally laden shows and movies, hip hop and rap, and I love to read, think, wander and wonder, feel, reflect, and spend time with my loved ones sharing space, time, words, and food. Please feel free to connect with me about anything and everything at [juliofernandosalas@berkeley.edu](mailto:juliofernandosalas@berkeley.edu).
 
 
