@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 permalink: /
 subtitle: I am a PhD student and Chancellor’s Fellow in the Department of Sociology at the University of California, Berkeley. 
 profile:
