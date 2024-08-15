@@ -1,6 +1,6 @@
 ---
 layout: events
-title: updates
+title: Updates
 permalink: /updates
 subtitle: Public Speaking, Conferences, and Events
 profile:
