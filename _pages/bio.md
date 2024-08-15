@@ -2,7 +2,7 @@
 layout: bio
 title: bio
 permalink: /bio
-subtitle: I am Julio Fernando Salas-Vargas.
+subtitle: Researcher. Wannabe Writer. Thinker & Feeler. Corona, Queens, Boy.
 nav: true
 nav_order: 2
 profile:
