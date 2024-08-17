@@ -4,7 +4,7 @@ title: CV
 permalink: /assets/pdf/example_pdf.pdf
 subtitle: 
 nav: false
-nav_order: 6
+nav_order: 
 profile:
   align: right
   image: prof_pic.jpg
