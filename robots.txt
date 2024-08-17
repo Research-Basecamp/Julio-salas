@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://julio.relevant-research.com/sitemap.xml
+Sitemap: https://juliofernandosalas.com/sitemap.xml
