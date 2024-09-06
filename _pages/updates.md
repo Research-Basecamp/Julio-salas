@@ -5,9 +5,9 @@ permalink: /updates
 subtitle: Public Speaking, Conferences, and Events
 profile:
   align: right
-  image: juliospeaking.jpg
+  image: juliospeaking.png
   image_circular: false # crops the image to make it circular
-  more_info: Julio speaking at Queens Community
+  more_info: May 2023. Closing remarks speech at Queensborough’s 2023 Partners for Progress Gala at Terrace on the Park in Corona.
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

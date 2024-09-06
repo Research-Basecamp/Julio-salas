@@ -7,9 +7,9 @@ nav: true
 nav_order: 3
 profile:
   align: right
-  image: bridge.jpg
+  image: globe.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: The park I grew up in, Flushing Meadows Park.
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

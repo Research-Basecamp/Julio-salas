@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 profile:
   align: right
-  image: juliocasual.jpg
+  image: kids.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Julio at UC Berkeley, 2023.
+  more_info: Circa 2005. Me, Fernando, and Angie. Kevin wasn't born yet.
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

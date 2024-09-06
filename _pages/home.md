@@ -5,7 +5,7 @@ permalink: /
 subtitle: I am a PhD student and Chancellor’s Fellow in the Department of Sociology at the University of California, Berkeley. 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
