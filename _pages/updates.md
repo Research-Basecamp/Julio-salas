@@ -2,7 +2,7 @@
 layout: events
 title: Updates
 permalink: /updates
-subtitle: Public Speaking, Conferences, and Events
+subtitle: Updates
 profile:
   align: right
   image: juliospeaking.png
