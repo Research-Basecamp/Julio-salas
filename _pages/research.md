@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 profile:
   align: right
-  image: globe.png
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: The park I grew up in, Flushing Meadows Park.
 
