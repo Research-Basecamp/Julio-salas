@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-## [Download My CV](assets/pdf/example_pdf.pdf){:download="example_pdf.pdf"}
-## [LinkedIn Profile here](https://www.linkedin.com/in/yourprofile)
+<!-- ## [Download My CV](assets/pdf/example_pdf.pdf){:download="example_pdf.pdf"}
+## [LinkedIn Profile here](https://www.linkedin.com/in/yourprofile) -->
 
 
 
