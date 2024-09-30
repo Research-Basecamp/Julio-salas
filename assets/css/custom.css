@@ -1,7 +1,7 @@
 .clearfix > .desc{
     font-size: 27px;
     font-weight: 600;	
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 @media (min-width: 576px) {
