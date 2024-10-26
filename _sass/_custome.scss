@@ -44,6 +44,28 @@ table.table-sm th, table.table-sm td {
   margin-top: 100px !important; 
 }
 
+.profile .more-info {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  font-size: 20px;
+}
+
+footer.fixed-bottom .container {
+  font-size: 19px;
+}
+
+footer.fixed-bottom a {
+  color: var(--global-theme-color);
+}
+
+footer.fixed-bottom a:hover {
+  text-decoration: underline;
+}
 
 @media (max-width: 768px) {
   .publication-profile img,
