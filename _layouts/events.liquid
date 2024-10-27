@@ -35,9 +35,17 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a  style="color: inherit">2024</a>
       </h2>
       {% include news.liquid limit=true %}
+    {% endif %}
+
+    <!-- News -->
+    {% if page.newss and site.announcements.enabled %}
+      <h2>
+         <a style="color: inherit">2024</a>
+      </h2>
+      {% include newss.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
