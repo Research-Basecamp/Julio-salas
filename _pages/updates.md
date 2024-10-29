@@ -19,36 +19,24 @@ nav_order: 5
 
 Find a list of all updates below. See the homepage for upcoming events and more recent updates.
 
-# 2024
+## 2024
+- **2024 - 2025 Diversity and Community Fellow**, University of California, Berkeley
+- **2024 Panel Host**, Research Projects in the Social Sciences and Humanities Panel: Journeys, Inspirations and Aspirations, and Futurities, UC Berkeley
+- **2024 Speaker**, Linking Research to Passion - Graduate Diversity Admissions Fair, UC Berkeley
+- **2024 - 2025 Fellow**, Penn-Birmingham Transatlantic Migration Fellowship Program
+- **2024 National Research Center on Hispanic Children & Families’ Professional Development Grant** for Emerging Scholars Studying Poverty and Economic Mobility among Latino Populations
+- **2024 - 2025 Sociology Equity, Inclusion, and Diversity Fellowship (SEID)**, UC Berkeley
+- **2024 - 2025 Getting into Graduate School (GiGS) Mentor**, UC Berkeley
+- **2024 - 2025 Co-Facilitator and Co-Creator**, Latine Men in Higher Education Support Group
+- **Panelist**, Experience Diversity: FGLI @ Cal, U.C. Berkeley Graduate Division
+- **Mentor**, From Day One - Latinx Student Resource Center, U.C. Berkeley
+- **Interview**, Meet Julio Salas, CanvasRebel Magazine
 
-- Center for Race & Gender Grant, University of California, Berkeley ($1,000)  
-- Writing Partner, College Connect Program at Mission Graduates  
-- Interview, Meet Julio Salas, CanvasRebel Magazine  
-- Panelist, Experience Diversity: FGLI @ Cal, U.C. Berkeley Graduate Division  
-- Mentor, From Day One - Latinx Student Resource Center, U.C. Berkeley  
-- Interview, Pivoting from Pre-Med to a PhD - Grad School Femtoring Podcast  
-
-# 2023
-
-- Workshop speaker, Kessler Scholars Collaborative First-Generation College Celebration  
-- Panelist, Demystifying Graduate School Event, Graduate Association of Latinx Students  
-- Panelist, Berkeley Sociology Graduate Diversity Admissions Fair Panel  
-- Panelist, Raíces Recruitment and Retention Center First-Generation Graduate School Panel  
-- Path to the Professoriate Program, University of California, Berkeley ($1,000)  
-- Chancellor’s Fellowship, University of California, Berkeley ($58,000)  
-- Closing remarks speaker, Queensborough’s 2023 Partners for Progress Gala  
-
-
-
-# 2024 and 2023 Achievements in a Table
-
-| Date         | Role                                                             |
-|--------------|------------------------------------------------------------------|
-| August 2024  | Started graduate school at UC Berkeley Department of Sociology    |
-| August 2023  | Workshop speaker at Kessler Scholars Collaborative First-Generation College Celebration |
-| August 2023  | Panelist at Demystifying Graduate School Event, Graduate Association of Latinx Students |
-| August 2023  | Panelist at Berkeley Sociology Graduate Diversity Admissions Fair Panel |
-| August 2023  | Panelist at Raíces Recruitment and Retention Center First-Generation Graduate School Panel |
-| August 2023  | Path to the Professoriate Program, University of California, Berkeley ($1,000) |
-| August 2023  | Chancellor’s Fellowship, University of California, Berkeley ($58,000) |
-| August 2023  | Closing remarks speaker at Queensborough’s 2023 Partners for Progress Gala |
+## 2023
+- **Workshop speaker**, Kessler Scholars Collaborative First-Generation College Celebration
+- **Panelist**, Demystifying Graduate School Event, Graduate Association of Latinx Students
+- **Panelist**, Berkeley Sociology Graduate Diversity Admissions Fair Panel
+- **Panelist**, Raíces Recruitment and Retention Center First-Generation Graduate School Panel
+- **Path to the Professoriate Program**, University of California, Berkeley
+- **Chancellor’s Fellowship**, University of California, Berkeley
+- **Closing remarks speaker**, Queensborough’s 2023 Partners for Progress Gala
