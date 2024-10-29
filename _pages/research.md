@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-As a Chancellor’s Fellow and first-year PhD student, my research focuses on the experiences of immigrant families, particularly at the intersections of immigration, race and ethnicity, emotion, social stratification, and health. I explore how immigrants are racialized and how this racialization is embodied, influencing the inequalities they face. 
+As a Chancellor’s Fellow and second-year PhD student, my research focuses on the experiences of immigrant families living in the United States, particularly at the intersections of immigration, emotion, race and ethnicity, social stratification, and health. Since getting to Berkeley, I'm thinking a lot about how immigrants are racialized and the embodiment of said racialization and their implications for the inequality and emotions they experience.
 
 I'm delving into the complex impacts of systemic racism and discrimination on the health and well-being of immigrant families. By examining these factors, I aim to reveal the emotional and physical toll of being treated as an outsider.
 
