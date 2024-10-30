@@ -40,4 +40,3 @@ Find a list of all updates below. See the homepage for upcoming events and more 
 - **Path to the Professoriate Program**, University of California, Berkeley
 - **Chancellor’s Fellowship**, University of California, Berkeley
 - **Closing remarks speaker**, Queensborough’s 2023 Partners for Progress Gala
-
