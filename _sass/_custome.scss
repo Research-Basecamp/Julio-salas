@@ -101,11 +101,11 @@ img.img-fluid.z-depth-1.rounded {
   width: 300px;
   height: 100px;
   position: absolute;
-  top: 160%;
-  left: 70%;
+  top: 180%;
+  left: 60%;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 728px) {
   .publication-profile img,
   .events-profile img,
   .home-profile img {
@@ -122,7 +122,7 @@ img.img-fluid.z-depth-1.rounded {
     margin-top: 460px;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 728px) {
   .event.publication-event.float-right {
     width: 350px;
     height: auto;
