@@ -18,15 +18,3 @@ social: true # includes social icons at the bottom of the page
 
 
 As a Chancellor’s Fellow and second-year PhD student, my research focuses on the experiences of immigrant families living in the United States, particularly at the intersections of immigration, emotion, race and ethnicity, social stratification, and health. Since getting to Berkeley, I'm thinking a lot about how immigrants are racialized and the embodiment of said racialization and their implications for the inequality and emotions they experience.
-
-I'm delving into the complex impacts of systemic racism and discrimination on the health and well-being of immigrant families. By examining these factors, I aim to reveal the emotional and physical toll of being treated as an outsider.
-
-Understanding and addressing health inequalities among immigrant populations is crucial. Immigrants face unique challenges, including limited access to healthcare, economic instability, and cultural barriers, all of which can worsen health issues.
-
-Highlighting the connections between racialization and health can inform policymakers, healthcare providers, and community organizations about the specific needs of immigrant families. My research has the potential to foster more inclusive and equitable health policies and practices.
-
-Ultimately, I aim to ensure that all individuals, regardless of their background, have the opportunity to lead healthy, fulfilling lives. 
-
-**My work is about creating a more just and understanding society for everyone.**
-
-

@@ -27,6 +27,34 @@ layout: default
     </div>
   {% endif %}
 
+ <div class="event-container">
+  <div class="event publication-event float-{% if page.event.align == 'left' %}left{% else %}right{% endif %}">
+    {% if page.event.image %}
+      {% assign event_image_path = page.event.image | prepend: 'assets/img/' %}
+
+      {% if page.event.image_circular %}
+        {% assign event_image_class = 'img-fluid z-depth-2 rounded-circle overlay-image' %}
+      {% else %}
+        {% assign event_image_class = 'img-fluid z-depth-2 rounded overlay-image' %}
+      {% endif %}
+
+      {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+
+      {%
+        include figure.liquid loading="eager" path=event_image_path class=event_image_class sizes=sizes alt=page.event.image cache_bust=true
+      %}
+    {% endif %}
+
+    {% if page.event.more_info %}
+      <div class="more-info">{{ page.event.more_info }}</div>
+    {% endif %}
+  </div>
+</div>
+
+
+
+  
+
   <div class="clearfix">
     <h4 class="desc">{{ page.subtitle }}</h4>
     {{ content }}

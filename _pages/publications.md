@@ -8,6 +8,11 @@ profile:
   image: juliospeaking.png
   image_circular: false # crops the image to make it circular
   more_info: Julio speaking at Queens Community
+event:
+  align: right
+  image: update.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: How Many Food-Insecure Adults Need Help but Don’t Know Where to Get It? 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

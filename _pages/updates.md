@@ -20,14 +20,14 @@ nav_order: 5
 Find a list of all updates below. See the homepage for upcoming events and more recent updates.
 
 ## 2024
-- **2024 - 2025 Diversity and Community Fellow**, University of California, Berkeley
-- **2024 Panel Host**, Research Projects in the Social Sciences and Humanities Panel: Journeys, Inspirations and Aspirations, and Futurities, UC Berkeley
-- **2024 Speaker**, Linking Research to Passion - Graduate Diversity Admissions Fair, UC Berkeley
-- **2024 - 2025 Fellow**, Penn-Birmingham Transatlantic Migration Fellowship Program
-- **2024 National Research Center on Hispanic Children & Families’ Professional Development Grant** for Emerging Scholars Studying Poverty and Economic Mobility among Latino Populations
-- **2024 - 2025 Sociology Equity, Inclusion, and Diversity Fellowship (SEID)**, UC Berkeley
-- **2024 - 2025 Getting into Graduate School (GiGS) Mentor**, UC Berkeley
-- **2024 - 2025 Co-Facilitator and Co-Creator**, Latine Men in Higher Education Support Group
+- **Diversity and Community Fellow**, University of California, Berkeley
+- **Panel Host**, Research Projects in the Social Sciences and Humanities Panel: Journeys, Inspirations and Aspirations, and Futurities, UC Berkeley
+- **Speaker**, Linking Research to Passion - Graduate Diversity Admissions Fair, UC Berkeley
+- **Fellow**, Penn-Birmingham Transatlantic Migration Fellowship Program
+- **National Research Center on Hispanic Children & Families’ Professional Development Grant** for Emerging Scholars Studying Poverty and Economic Mobility among Latino Populations
+- **Sociology Equity, Inclusion, and Diversity Fellowship (SEID)**, UC Berkeley
+- **Getting into Graduate School (GiGS) Mentor**, UC Berkeley
+- **Co-Facilitator and Co-Creator**, Latine Men in Higher Education Support Group
 - **Panelist**, Experience Diversity: FGLI @ Cal, U.C. Berkeley Graduate Division
 - **Mentor**, From Day One - Latinx Student Resource Center, U.C. Berkeley
 - **Interview**, Meet Julio Salas, CanvasRebel Magazine

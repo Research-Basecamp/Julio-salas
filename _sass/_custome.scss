@@ -67,10 +67,70 @@ footer.fixed-bottom a:hover {
   text-decoration: underline;
 }
 
+img.img-fluid.z-depth-1.rounded {
+  width: 72% !important;
+  height: 50% !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin-left: 50px !important;
+}
+
+
+.event-container {
+  display: flex;
+  flex-direction: column;
+}
+
 @media (max-width: 768px) {
+  .event-container {
+    order: 2; /* Ensure it appears after other content */
+  }
+
+  .publication-event {
+    float: none; /* Remove float */
+    margin: 0 auto; /* Center the image */
+    text-align: center; /* Optional for centering text */
+  }
+
+  .more-info {
+    margin-top: 1rem;
+  }
+}
+
+.event.publication-event.float-right {
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  top: 160%;
+  left: 60%;
+}
+
+@media (max-width: 1024px) {
   .publication-profile img,
   .events-profile img,
   .home-profile img {
     margin-top: 0 !important;
   }
+
+  img.img-fluid.z-depth-1.rounded {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+  }
+
+  #\32 022 {
+    margin-top: 460px;
+  }
 }
+@media (max-width: 1024px) {
+  .event.publication-event.float-right {
+    width: 350px;
+    height: auto;
+    position: absolute;
+    top: 206%;
+    left: 5%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
