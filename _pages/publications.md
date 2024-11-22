@@ -8,11 +8,7 @@ profile:
   image: juliospeaking.png
   image_circular: false # crops the image to make it circular
   more_info: Julio speaking at Queens Community
-event:
-  align: right
-  image: update.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: How Many Food-Insecure Adults Need Help but Don’t Know Where to Get It? 
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -48,6 +44,15 @@ nav_order: 4
 # 2022
 
 2022 Guelespe, D., Echave, P., & **Salas, J.** "[Do It for Your Children: Mixed-Status Families' Experiences with the Stimulus Checks.](https://www.urban.org/research/publication/do-it-for-your-children)" Urban Institute.
+
+<div class="image">
+  <img src="assets/img/update.jpg" alt="Do-It-for-Your-Children">
+  <p>
+      <a href="https://www.urban.org/research/publication/how-many-food-insecure-adults-need-help-dont-know-where-get-it" target="_blank">
+          How Many Food-Insecure Adults Need Help but Don't Know Where to Get it?
+      </a>
+  </p>
+</div>
 
 2022 **Salas, J.,** Waxman, E., Gupta, P., Bernstein, H., Echave, P., & Gallardo, L. "[When Researchers Build Trust, 'Hard-to-Reach' Undocumented Communities Aren't So Hard to Reach.](https://www.urban.org/urban-wire/when-researchers-build-trust-hard-reach-undocumented-communities-arent-so-hard-reach)" Urban Institute.
 
