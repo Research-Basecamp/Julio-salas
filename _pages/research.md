@@ -8,6 +8,7 @@ nav_order: 3
 profile:
   align: right
   image: globe.png
+  alt: Flushing Meadows Park in Queens, which has a large plaza surrounded by trees, with a building-sized metal globe in the middle. The globe has metal continents, latitude and longitude lines, and a few circular rings around the globe in overlapping orbits.
   image_circular: false # crops the image to make it circular
   more_info: The park I grew up in, Flushing Meadows Park.
 

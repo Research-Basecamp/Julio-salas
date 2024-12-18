@@ -6,6 +6,7 @@ subtitle: Updates
 profile:
   align: right
   image: juliospeaking.png
+  alt: Julio Fernando Salas Vargas stands at a podium in a ballroom. He's wearing a suit and glasses and is smiling as he speaks to people seated at round tables.
   image_circular: false # crops the image to make it circular
   more_info: May 2023. Closing remarks speech at Queensborough’s 2023 Partners for Progress Gala at Terrace on the Park in Corona.
 

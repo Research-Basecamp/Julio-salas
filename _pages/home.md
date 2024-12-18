@@ -6,6 +6,7 @@ subtitle: I am a PhD student and Chancellor’s Fellow in the Department of Soci
 profile:
   align: right
   image: prof_picc.png
+  alt: Julio Fernando Salas Vargas leaning forward with his hands clasped, sitting on the gray brick front steps of a building. He has short black hair, a short beard, and wears round black glasses, a black windbreaker, light jeans, and white sneakers.
   image_circular: false # crops the image to make it circular
   more_info: 
 

@@ -2,12 +2,13 @@
 layout: bio
 title: Bio
 permalink: /bio
-subtitle: Researcher. Thinker & Feeler. Corona, Queens, Boy.
+subtitle: Researcher. Thinker & Feeler. Corona, Queens Boy.
 nav: true
 nav_order: 2
 profile:
   align: right
   image: kids.jpg
+  alt: A stack of glossy photos on a brown tablecloth, with the top photo showing three young children with short black hair sitting on a kitchen floor.
   image_circular: false # crops the image to make it circular
   more_info: Circa 2005. Me, Fernando, and Angie. Kevin wasn't born yet.
 
@@ -17,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am Julio Fernando Salas-Vargas, the son and grandson of Mexican and Colombian immigrants who immigrated to New York City in the mid to late 1980s from Puebla, Mexico and Bogota, Colombia. My three younger siblings (Angie, Fernando, and Kevin) and I were all born in Elmhurst Hospital and raised in Corona, Queens, New York, by our mother, Angela, who was taken away from us by the COVID-19 pandemic and our grandmother, Maria, who is still with us in Corona.
+I am Julio Fernando Salas-Vargas, the son and grandson of Mexican and Colombian immigrants who immigrated to New York City in the mid to late 1980s from Puebla, Mexico and Bogotá, Colombia. My three younger siblings (Angie, Fernando, and Kevin) and I were all born in Elmhurst Hospital and raised in Corona, Queens, New York, by our mother, Angela, who was taken away from us by the COVID-19 pandemic and our grandmother, Maria, who is still with us in Corona.
 
 Growing up, I couldn’t have imagined I would have attended college, let alone graduate school. The circumstances I was born into and remained in throughout my childhood and adolescence, in many ways, prevented me from envisioning a life beyond being relegated to the zip code of 11368, living a precarious life in all the senses – financial, emotional, psychological, etc. What once felt like a life where everything went wrong for little Julio, and he couldn’t understand why life was so exhausting, became and remains an unimaginably lucky second shot at life for my present self. This unimaginable life began in 2016 when I enrolled at Queensborough Community College (QCC), and a million factors began to line up - luck, many mentors entering my life and supporting me, pipeline programs supporting me, an educational awakening that led me to become enamored with learning, among others. Life took me from P.S. 28 to P.S. 14 to I.S. 61 to John Bowne High School to QCC to Cornell University, and now to the University of California, Berkeley, where I am a Sociology PhD student and Chancellor’s Fellow.
 
